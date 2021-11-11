@@ -1,0 +1,8 @@
+{
+    "association-input" : "data/devlopment-indicators.csv",
+    "association-output" : "",
+    "clustering-input" : "",
+    "clustering-output" : "",
+    "anomaly-input" : "",
+    "anomaly-output" : "",
+}
