@@ -1,4 +1,4 @@
-# dm-project
+# Impact of development indicators on CO2 Emission
 
 ## Dependencies
 - mention the dependencies here
@@ -16,6 +16,9 @@
 - *docs* may contain any additional documentation.
 
 
-## links
-[task board](https://docs.google.com/spreadsheets/d/1r1YpixL6u7zpWadBuG9_rW5ifJSiyAsz3_3n8ZCSk0o/edit#gid=0)
-[description](https://docs.google.com/document/d/1mU4W2vZvq9CwpVhuHi2yr4_RRzJJw3zrdTS1ehp1rnE/edit)
+## Links
+- [task board](https://docs.google.com/spreadsheets/d/1r1YpixL6u7zpWadBuG9_rW5ifJSiyAsz3_3n8ZCSk0o/edit#gid=0)
+- [description](https://docs.google.com/document/d/1mU4W2vZvq9CwpVhuHi2yr4_RRzJJw3zrdTS1ehp1rnE/edit)
+
+## Flow
+![Flow Diagram](./readme/img/flow.png "Flow")
