@@ -189,7 +189,7 @@ Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,,
 CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,,,
 CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,,,
 CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,,,
-CO2 emissions (kt),EN.ATM.CO2E.KT,TRUE,,
+CO2 emissions (kt),EN.ATM.CO2E.KT,TRUE,TRUE,Emission
 CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,,,
 "CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,,,
 CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,,TRUE,Emission
