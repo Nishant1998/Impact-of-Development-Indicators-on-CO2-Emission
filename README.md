@@ -1,9 +1,8 @@
 # Impact of development indicators on CO2 Emission
 
 ## Dependencies
-- shell
-    - wget, to fetch world bank data
-    - unzip, to unzip the data
+- Python 3.8.10
+    - requests 2.22.0, For importing data from world bank api
 
 ## Folder Structure
 - *data* contains all the data files that are used as inputs
