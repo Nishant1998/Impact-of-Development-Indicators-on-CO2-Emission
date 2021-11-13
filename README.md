@@ -3,6 +3,7 @@
 ## Dependencies
 - Python 3.8.10
     - requests 2.22.0, For importing data from world bank api
+    - mlxtend 0.19.0, For association rule mining 
 
 ## Folder Structure
 - *data* contains all the data files that are used as inputs
@@ -33,6 +34,7 @@
 - [task board](https://docs.google.com/spreadsheets/d/1r1YpixL6u7zpWadBuG9_rW5ifJSiyAsz3_3n8ZCSk0o/edit#gid=0)
 - [description](https://docs.google.com/document/d/1mU4W2vZvq9CwpVhuHi2yr4_RRzJJw3zrdTS1ehp1rnE/edit)
 - [world bank api](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581)
+- [Association Rule Mining - FP Growth](https://pyshark.com/market-basket-analysis-using-association-rule-mining-in-python/)
 
 ## Flow
 ![Flow Diagram](./readme/img/flow.png "Flow")
