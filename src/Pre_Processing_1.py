@@ -5,19 +5,23 @@
 
 
 import pandas as pd
-df11 = pd.read_csv('C:/Users/param/Downloads/DM-Project-master (1)/DM-Project-master/data/worldbank/Agriculture/AG.LND.AGRI.ZS.csv', index_col=0, skiprows=[0,1,2,3])
+df11 = pd.read_csv('C:/Users/param/Downloads/DM-Project-master (1)/DM-Project-master/data/worldbank/Agriculture/AG.LND.AGRI.ZS.csv', index_col=0, skiprows=[0,1,2,3]) # First 4 rows removed due to unwanted data
 df_drop = df11.drop(columns = ['Unnamed: 65'])
 df_temp = df_drop.fillna('Unknown')
 
 
 # In[2]:
 
-
+#******* Storing the values of years from 1960 to 2010 as strings because the column names are in the form of strings *******
 a = 1960
 lst = []
 for m in range(61):
     z = a + m
     lst.append(str(z))
+
+#******* Replacing the Unknown values in a row*****
+#******* First non-zero value in a row fills all the values on its left******
+#******* Last non-zero value in a row fills all the remaining values to its right******
 count = 0
 for m in lst: 
     for w in df_temp[m]:
@@ -45,7 +49,7 @@ df_temp
 
 # In[3]:
 
-
+#******* Binning *******
 count = 0
 for m in lst: 
     for w in df_temp[m]:
@@ -96,7 +100,7 @@ for m in lst:
 
 # In[4]:
 
-
+#******* Creating a CSV file and uploading the Data Frame to it *******
 df_temp.to_csv('EG.FEC.RNEW.ZS_filled.csv')
 
 
