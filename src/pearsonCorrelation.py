@@ -1,19 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats.stats import pearsonr
 
 
-# In[2]:
-
-
 def readData(fileName):
+    # This funtion read data in dataframe. 
     data = pd.read_csv(fileName)
     data = data.rename(columns={"Country Name": "Country_Name", "Country Code": "Country_Code"})
     
@@ -22,9 +17,6 @@ def readData(fileName):
     data = data.dropna()
     
     return data
-
-
-# In[3]:
 
 
 def getCountriesName(df1,df2):
@@ -39,29 +31,23 @@ def getCountriesName(df1,df2):
     return contriesList
     
 
-
-# In[4]:
-
-
 def getCountriesCode(df,names):
+    # this funtion get country codes from its names
     df = df[df.Country_Name.isin(names)].sort_values('Country_Name')
     codes = df.Country_Code.to_list()
     return codes
 
-
-# In[5]:
-
-
 def pearson_rvalue(path1,path2,name1,name2,plot=False):
-    R = []
+    # this funtion calculate correlation coefficient
+    R = [] # pearson R
     p_value = []
     
+    # read indicators file from given paths
     data1 = readData(path1)
     data2 = readData(path2)
-    # "DM-Project/Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv"
-    # "DM-Project/Output/Not Binned/Land/AG.LND.FRST.ZS_NotBinned.csv"
     
-    #get list of countries
+    # get list of countries
+    # only selected 195 country And country with are common in both feature.
     contriesList = getCountriesName(data1,data2)
     contriesList = np.insert(contriesList,len(contriesList),"World")
     contriesList.sort()
@@ -74,11 +60,14 @@ def pearson_rvalue(path1,path2,name1,name2,plot=False):
     data2 = data2.iloc[:, 4:].values.astype(float)
     data2 = pd.DataFrame(np.concatenate((np.array(data1.iloc[:, :4].values) , data2), axis=1), columns=data1.columns.to_list())
     
+    # for every country 
     for i in range(len(contriesList)):
         x = data1.iloc[:, 4:].values[i].astype(float)
         y = data2.iloc[:, 4:].values[i].astype(float)
+        # calculate r and p value for each country
         r,p =  pearsonr(x,y)
         
+        # add r and pvalue in list
         R.append(r)
         p_value.append(p)
         
@@ -88,7 +77,8 @@ def pearson_rvalue(path1,path2,name1,name2,plot=False):
             plt.ylabel(name2)
             plt.title("{} -> R = {}, P_Value = {}".format(contriesList[i],r,p))
             plt.show()
-            
+    
+    # add data of r and pvalue in dataframe        
     correlation_and_pvalue = pd.DataFrame()
     correlation_and_pvalue["Country_Name"] = contriesList
     correlation_and_pvalue["Country_Code"] = getCountriesCode(data1,contriesList)
@@ -96,10 +86,4 @@ def pearson_rvalue(path1,path2,name1,name2,plot=False):
     correlation_and_pvalue["P_Value"] = p_value
     
     return correlation_and_pvalue
-
-
-# In[ ]:
-
-
-
 

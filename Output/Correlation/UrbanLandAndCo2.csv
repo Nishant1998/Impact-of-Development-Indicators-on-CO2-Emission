@@ -1,0 +1,160 @@
+Country_Name,Country_Code,R,P_Value,correlation,Significant
+Albania,ALB,,,NO,False
+Algeria,DZA,,,NO,False
+Angola,AGO,,,NO,False
+Antigua and Barbuda,ATG,,,NO,False
+Argentina,ARG,,,NO,False
+Australia,AUS,,,NO,False
+"Bahamas, The",BHS,,,NO,False
+Bahrain,BHR,,,NO,False
+Bangladesh,BGD,,,NO,False
+Barbados,BRB,,,NO,False
+Belarus,BLR,,,NO,False
+Belgium,BEL,,,NO,False
+Belize,BLZ,,,NO,False
+Benin,BEN,,,NO,False
+Bosnia and Herzegovina,BIH,,,NO,False
+Brazil,BRA,,,NO,False
+Brunei Darussalam,BRN,,,NO,False
+Bulgaria,BGR,,,NO,False
+Cabo Verde,CPV,,,NO,False
+Cambodia,KHM,,,NO,False
+Cameroon,CMR,,,NO,False
+Canada,CAN,,,NO,False
+Chile,CHL,,,NO,False
+China,CHN,,,NO,False
+Colombia,COL,,,NO,False
+Comoros,COM,,,NO,False
+"Congo, Dem. Rep.",COD,,,NO,False
+"Congo, Rep.",COG,,,NO,False
+Costa Rica,CRI,,,NO,False
+Cote d'Ivoire,CIV,,,NO,False
+Croatia,HRV,,,NO,False
+Cuba,CUB,,,NO,False
+Cyprus,CYP,,,NO,False
+Denmark,DNK,,,NO,False
+Djibouti,DJI,,,NO,False
+Dominica,DMA,,,NO,False
+Dominican Republic,DOM,,,NO,False
+Ecuador,ECU,,,NO,False
+"Egypt, Arab Rep.",EGY,,,NO,False
+El Salvador,SLV,,,NO,False
+Equatorial Guinea,GNQ,,,NO,False
+Eritrea,ERI,,,NO,False
+Estonia,EST,,,NO,False
+Eswatini,SWZ,,,NO,False
+Ethiopia,ETH,,,NO,False
+Fiji,FJI,,,NO,False
+Finland,FIN,,,NO,False
+France,FRA,,,NO,False
+Gabon,GAB,,,NO,False
+"Gambia, The",GMB,,,NO,False
+Georgia,GEO,,,NO,False
+Germany,DEU,,,NO,False
+Ghana,GHA,,,NO,False
+Greece,GRC,,,NO,False
+Grenada,GRD,,,NO,False
+Guatemala,GTM,,,NO,False
+Guinea,GIN,,,NO,False
+Guinea-Bissau,GNB,,,NO,False
+Guyana,GUY,,,NO,False
+Haiti,HTI,,,NO,False
+Honduras,HND,,,NO,False
+Iceland,ISL,,,NO,False
+India,IND,,,NO,False
+Indonesia,IDN,,,NO,False
+"Iran, Islamic Rep.",IRN,,,NO,False
+Iraq,IRQ,,,NO,False
+Ireland,IRL,,,NO,False
+Israel,ISR,,,NO,False
+Italy,ITA,,,NO,False
+Jamaica,JAM,,,NO,False
+Japan,JPN,,,NO,False
+Jordan,JOR,,,NO,False
+Kenya,KEN,,,NO,False
+Kiribati,KIR,,,NO,False
+"Korea, Dem. People's Rep.",PRK,,,NO,False
+"Korea, Rep.",KOR,,,NO,False
+Kuwait,KWT,,,NO,False
+Lao PDR,LAO,,,NO,False
+Latvia,LVA,,,NO,False
+Lebanon,LBN,,,NO,False
+Liberia,LBR,,,NO,False
+Libya,LBY,,,NO,False
+Lithuania,LTU,,,NO,False
+Luxembourg,LUX,,,NO,False
+Madagascar,MDG,,,NO,False
+Malawi,MWI,,,NO,False
+Malaysia,MYS,,,NO,False
+Maldives,MDV,,,NO,False
+Mali,MLI,,,NO,False
+Malta,MLT,,,NO,False
+Marshall Islands,MHL,,,NO,False
+Mauritania,MRT,,,NO,False
+Mauritius,MUS,,,NO,False
+Mexico,MEX,,,NO,False
+"Micronesia, Fed. Sts.",FSM,,,NO,False
+Moldova,MDA,,,NO,False
+Morocco,MAR,,,NO,False
+Mozambique,MOZ,,,NO,False
+Myanmar,MMR,,,NO,False
+Namibia,NAM,,,NO,False
+Nauru,NRU,,,NO,False
+Netherlands,NLD,,,NO,False
+New Zealand,NZL,,,NO,False
+Nicaragua,NIC,,,NO,False
+Nigeria,NGA,,,NO,False
+North Macedonia,MKD,,,NO,False
+Norway,NOR,,,NO,False
+Oman,OMN,,,NO,False
+Pakistan,PAK,,,NO,False
+Palau,PLW,,,NO,False
+Panama,PAN,,,NO,False
+Papua New Guinea,PNG,,,NO,False
+Peru,PER,,,NO,False
+Philippines,PHL,,,NO,False
+Poland,POL,,,NO,False
+Portugal,PRT,,,NO,False
+Qatar,QAT,,,NO,False
+Romania,ROU,,,NO,False
+Russian Federation,RUS,,,NO,False
+Samoa,WSM,,,NO,False
+Sao Tome and Principe,STP,,,NO,False
+Saudi Arabia,SAU,,,NO,False
+Senegal,SEN,,,NO,False
+Seychelles,SYC,,,NO,False
+Sierra Leone,SLE,,,NO,False
+Singapore,SGP,,,NO,False
+Slovenia,SVN,,,NO,False
+Solomon Islands,SLB,,,NO,False
+Somalia,SOM,,,NO,False
+South Africa,ZAF,,,NO,False
+Spain,ESP,,,NO,False
+Sri Lanka,LKA,,,NO,False
+St. Kitts and Nevis,KNA,,,NO,False
+St. Lucia,LCA,,,NO,False
+St. Vincent and the Grenadines,VCT,,,NO,False
+Sudan,SDN,,,NO,False
+Suriname,SUR,,,NO,False
+Sweden,SWE,,,NO,False
+Switzerland,CHE,,,NO,False
+Syrian Arab Republic,SYR,,,NO,False
+Tanzania,TZA,,,NO,False
+Thailand,THA,,,NO,False
+Timor-Leste,TLS,,,NO,False
+Togo,TGO,,,NO,False
+Tonga,TON,,,NO,False
+Trinidad and Tobago,TTO,,,NO,False
+Tunisia,TUN,,,NO,False
+Turkey,TUR,,,NO,False
+Tuvalu,TUV,,,NO,False
+Ukraine,UKR,,,NO,False
+United Arab Emirates,ARE,,,NO,False
+United Kingdom,GBR,,,NO,False
+United States,USA,,,NO,False
+Uruguay,URY,,,NO,False
+Vanuatu,VUT,,,NO,False
+"Venezuela, RB",VEN,,,NO,False
+Vietnam,VNM,,,NO,False
+World,WLD,,,NO,False
+"Yemen, Rep.",YEM,,,NO,False
