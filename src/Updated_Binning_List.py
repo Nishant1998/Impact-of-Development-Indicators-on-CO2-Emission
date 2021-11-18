@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[11]:
 
 
 #******** The input to this file will be the output file of 'Updated_Filling_Values_List'
@@ -12,13 +12,13 @@
 #******** With ' _binned' appended to the original file name in place of '_NotBinned'
 
 import pandas as pd
-a = 1960
+a = 1990
 lst = []
-for m in range(61):
+for m in range(31):
     z = a + m
     lst.append(str(z))
 #up_folder = ['Resources/', 'Resources/']
-csv_name = ['EG.CFT.ACCS.ZS', 'EG.ELC.ACCS.UR.ZS', 'EG.ELC.ACCS.ZS', 'EG.ELC.COAL.ZS', 'EG.ELC.FOSL.ZS', 'EG.ELC.HYRO.ZS', 'EG.ELC.LOSS.ZS', 'EG.ELC.NGAS.ZS', 'EG.ELC.NUCL.ZS', 'EG.ELC.PETR.ZS', 'EG.ELC.RNEW.ZS' ]
+csv_name = ['SL.EMP.VULN.ZS','SL.EMP.WORK.ZS','SL.FAM.WORK.ZS','SL.IND.EMPL.ZS','SL.SRV.EMPL.ZS','SL.UEM.ADVN.ZS','SL.UEM.BASC.ZS','SL.UEM.INTM.ZS','SL.UEM.TOTL.ZS','SN.ITK.DEFC.ZS','SN.ITK.SVFI.ZS','SP.DYN.CDRT.IN','SP.POP.TOTL.FE.ZS','SP.POP.TOTL.MA.ZS','SP.RUR.TOTL.ZS','SP.URB.TOTL.IN.ZS']
 file_name = []
 for name in range(len(csv_name)):
     file_name.append('C:/Users/param/Downloads/DM-Project-master (1)/DM-Project-master/data/Ipynb Files/'+ csv_name[name] + '_NotBinned.csv')
