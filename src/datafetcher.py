@@ -40,7 +40,7 @@ def fetchFile(args):
 
 def run():
     config = pd.read_csv(getAbsPath("config/indicators.csv"))
-    config = config.loc[config["Selected"] == True]
+    config = config.loc[config["Primary"] == True]
 
     indicators = []
     for index, row in config.iterrows():

@@ -12,6 +12,7 @@
 #******** With '_NotBinned' appended to the original file name
     
 import pandas as pd
+from common import *
 a = 1990
 lst = []
 for m in range(31):
@@ -22,12 +23,26 @@ lst_drop = []
 for m in range(30):
     z = b + m
     lst_drop.append(str(z))
-csv_name = ['SL.EMP.VULN.ZS','SL.EMP.WORK.ZS','SL.FAM.WORK.ZS','SL.IND.EMPL.ZS','SL.SRV.EMPL.ZS','SL.UEM.ADVN.ZS','SL.UEM.BASC.ZS','SL.UEM.INTM.ZS','SL.UEM.TOTL.ZS','SN.ITK.DEFC.ZS','SN.ITK.SVFI.ZS','SP.DYN.CDRT.IN','SP.POP.TOTL.FE.ZS','SP.POP.TOTL.MA.ZS','SP.RUR.TOTL.ZS','SP.URB.TOTL.IN.ZS']
-up_folder = 'Social/'
-file_name = []
-for name in range(len(csv_name)):
-    file_name.append('C:/Users/param/Downloads/DM-Project-master (1)/DM-Project-master/data/worldbank/' + up_folder + csv_name[name] + '.csv')
-    df11 = pd.read_csv(file_name[name], index_col=0, skiprows=[0,1,2,3])
+
+INPUT_DIR = getAbsPath("data/worldbank")
+OUTPUT_DIR = getAbsPath("Output/Not Binned")
+CONFIG_FILE = getAbsPath("config/indicators.csv")
+
+def run():
+
+    config = pd.read_csv(CONFIG_FILE)
+    selected = config[config["Primary"] == True]
+
+    for index, row in selected.iterrows():
+        ind_code = row["Indicator Code"]
+        ind_type = row["Type"]
+
+        fillValues(ind_type, ind_code)
+
+def fillValues(ind_type, ind_code):
+
+    input_path = INPUT_DIR + "/" + ind_type + "/" + ind_code + ".csv"
+    df11 = pd.read_csv(input_path, index_col=0, skiprows=[0,1,2,3])
     if 'Unnamed: 65' in df11.columns:
         df_drop = df11.drop(columns = ['Unnamed: 65'])
     else:
@@ -54,8 +69,15 @@ for name in range(len(csv_name)):
                         df_temp[m][count] = val
             count = count + 1  
         count = 0
-    out_file = csv_name[name] + '_NotBinned.csv'
+
+    if not os.path.exists(OUTPUT_DIR + "/" + ind_type):
+        os.makedirs(OUTPUT_DIR + "/" + ind_type)
+
+    out_file =  OUTPUT_DIR + "/" + ind_type + "/" + ind_code + '_NotBinned.csv'
     df_temp.to_csv(out_file)
+
+if __name__ == '__main__':
+    run()
 
 
 # In[ ]:

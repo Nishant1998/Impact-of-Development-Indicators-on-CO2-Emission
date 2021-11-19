@@ -12,3 +12,10 @@ def writeJsonToFile(data, path):
 """function to check if the file is present"""
 def isFile(path):
     return os.path.isfile(path)
+
+def getColumns(start, end):
+    result = []
+    for year in range(start, end+1):
+        result.append(str(year))
+
+    return result

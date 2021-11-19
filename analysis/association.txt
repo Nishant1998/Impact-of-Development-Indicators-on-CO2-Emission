@@ -1,1 +1,3 @@
 Add any interesting finding here, we will use them later while preparing report
+
+1. Will have to limit the association rules to 1-to-1. It generated 57000 association rules for one country.

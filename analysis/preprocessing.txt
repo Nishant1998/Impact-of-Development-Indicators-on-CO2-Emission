@@ -1,1 +1,5 @@
 Add any interesting finding here, we will use them later while preparing report
+
+1. How to bin data like 
+Pump price for diesel fuel (US$ per liter)
+Pump price for gasoline (US$ per liter)
