@@ -3,7 +3,7 @@ from common import *
 
 from multiprocessing.pool import ThreadPool
 
-PREPROCESSED_PATH = getAbsPath("temp/preprocessed")
+PREPROCESSED_PATH = getAbsPath("Output/Binned")
 REORGANIZED_PATH = getAbsPath("temp/reorganized")
 
 def reorganize(args):
@@ -22,11 +22,12 @@ def reorganize(args):
 def run():
 
     indCode2DataMap = {}
-    file_names = os.listdir(PREPROCESSED_PATH)
-    for file_name in file_names:
-        indCode2DataMap[file_name] = pd.read_csv(PREPROCESSED_PATH + "/" + file_name, index_col="Country Code")
-
-    first_file_data = indCode2DataMap[file_names[0]]
+    indTypes = os.listdir(PREPROCESSED_PATH)
+    for indType in indTypes:
+        for ind in os.listdir(PREPROCESSED_PATH + "/" + indType):
+            indCode2DataMap[ind] = pd.read_csv(PREPROCESSED_PATH + "/" + indType + "/" + ind, index_col="Country Code")
+            
+    first_file_data = indCode2DataMap[ind]
 
     inputs = []
     for country_code, row in first_file_data.iterrows():
