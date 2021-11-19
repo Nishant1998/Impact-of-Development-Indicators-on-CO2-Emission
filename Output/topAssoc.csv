@@ -1,142 +1,167 @@
 Rule1Name,tag1,Rule2Name,tag2,rules
-Food imports (% of merchandise imports),low,CO2 emissions (kt),low,0.059327846364883405
-Food exports (% of merchandise exports),low,CO2 emissions (kt),low,0.05829903978052126
-Fuel exports (% of merchandise exports),low,CO2 emissions (kt),low,0.05555555555555555
-Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),low,0.05246913580246913
-Fuel imports (% of merchandise imports),low,CO2 emissions (kt),low,0.04766803840877915
-Access to electricity (% of population),high,CO2 emissions (kt),low,0.04355281207133059
-Proportion of people living below 50 percent of median income (%),low,CO2 emissions (kt),low,0.04046639231824417
-"Energy imports, net (% of energy use)",low,CO2 emissions (kt),low,0.02709190672153635
-Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),low,0.025034293552812073
-Land area (sq. km),below_average,CO2 emissions (kt),low,0.02400548696844993
-Forest area (% of land area),low,CO2 emissions (kt),low,0.02194787379972565
-Agricultural land (% of land area),below_average,CO2 emissions (kt),low,0.01748971193415638
-Agricultural land (% of land area),average,CO2 emissions (kt),low,0.017146776406035666
-Agricultural land (% of land area),low,CO2 emissions (kt),low,0.01646090534979424
-GDP growth (annual %),low,CO2 emissions (kt),low,0.015089163237311385
-Forest area (% of land area),below_average,CO2 emissions (kt),low,0.015089163237311385
-Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),low,0.014746227709190672
-Forest area (% of land area),average,CO2 emissions (kt),low,0.014060356652949246
-Land area (sq. km),very_low,CO2 emissions (kt),low,0.013374485596707819
-"Electricity production from oil, gas and coal sources (% of total)",high,CO2 emissions (kt),low,0.013374485596707819
-Land area (sq. km),low,CO2 emissions (kt),low,0.012345679012345678
-Fuel imports (% of merchandise imports),below_average,CO2 emissions (kt),low,0.011659807956104253
-Food exports (% of merchandise exports),low,CO2 emissions (kt),below_average,0.0102880658436214
-Food imports (% of merchandise imports),low,CO2 emissions (kt),below_average,0.0102880658436214
-Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),below_average,0.0102880658436214
-Fuel exports (% of merchandise exports),low,CO2 emissions (kt),below_average,0.009945130315500686
-Fuel imports (% of merchandise imports),low,CO2 emissions (kt),below_average,0.009945130315500686
-Agricultural land (% of land area),above_average,CO2 emissions (kt),low,0.009259259259259259
-Food exports (% of merchandise exports),low,CO2 emissions (kt),high,0.008916323731138546
-Fuel exports (% of merchandise exports),low,CO2 emissions (kt),high,0.008916323731138546
-Food imports (% of merchandise imports),low,CO2 emissions (kt),high,0.008916323731138546
-Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),high,0.008916323731138546
-Access to electricity (% of population),high,CO2 emissions (kt),high,0.008916323731138546
-Renewable energy consumption (% of total final energy consumption),above_average,CO2 emissions (kt),low,0.00823045267489712
-"Energy imports, net (% of energy use)",low,CO2 emissions (kt),high,0.00823045267489712
-Forest area (% of land area),below_average,CO2 emissions (kt),high,0.007887517146776405
-Fuel imports (% of merchandise imports),low,CO2 emissions (kt),high,0.007887517146776405
-Access to electricity (% of population),high,CO2 emissions (kt),below_average,0.007887517146776405
-"Electricity production from oil, gas and coal sources (% of total)",average,CO2 emissions (kt),low,0.0075445816186556925
-Proportion of people living below 50 percent of median income (%),below_average,CO2 emissions (kt),low,0.00720164609053498
-Renewable energy consumption (% of total final energy consumption),average,CO2 emissions (kt),low,0.006858710562414266
-Access to electricity (% of population),average,CO2 emissions (kt),low,0.006858710562414266
-"Electricity production from oil, gas and coal sources (% of total)",below_average,CO2 emissions (kt),low,0.006515775034293553
-"Electricity production from oil, gas and coal sources (% of total)",low,CO2 emissions (kt),low,0.006515775034293553
-Forest area (% of land area),above_average,CO2 emissions (kt),low,0.006172839506172839
-Land area (sq. km),average,CO2 emissions (kt),low,0.006172839506172839
-Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),high,0.006172839506172839
-Proportion of people living below 50 percent of median income (%),low,CO2 emissions (kt),below_average,0.005829903978052126
-Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),below_average,0.005829903978052126
-Access to electricity (% of population),above_average,CO2 emissions (kt),low,0.005829903978052126
-Renewable energy consumption (% of total final energy consumption),high,CO2 emissions (kt),low,0.005829903978052126
-Forest area (% of land area),below_average,CO2 emissions (kt),below_average,0.005829903978052126
-"Electricity production from oil, gas and coal sources (% of total)",above_average,CO2 emissions (kt),high,0.005829903978052126
-Land area (sq. km),above_average,CO2 emissions (kt),low,0.0054869684499314125
-"Electricity production from oil, gas and coal sources (% of total)",above_average,CO2 emissions (kt),low,0.0051440329218107
-Agricultural land (% of land area),below_average,CO2 emissions (kt),high,0.0051440329218107
-"Energy imports, net (% of energy use)",low,CO2 emissions (kt),below_average,0.004458161865569273
-Agricultural land (% of land area),average,CO2 emissions (kt),below_average,0.004458161865569273
-Food imports (% of merchandise imports),low,CO2 emissions (kt),average,0.003429355281207133
-Fuel imports (% of merchandise imports),low,CO2 emissions (kt),average,0.003429355281207133
-Food exports (% of merchandise exports),low,CO2 emissions (kt),average,0.003429355281207133
-Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),average,0.003429355281207133
-Agricultural land (% of land area),average,CO2 emissions (kt),high,0.003429355281207133
-Agricultural land (% of land area),below_average,CO2 emissions (kt),below_average,0.003429355281207133
-"Electricity production from oil, gas and coal sources (% of total)",high,CO2 emissions (kt),below_average,0.003429355281207133
-Fuel exports (% of merchandise exports),low,CO2 emissions (kt),average,0.003429355281207133
-Land area (sq. km),above_average,CO2 emissions (kt),below_average,0.0030864197530864196
-Access to electricity (% of population),low,CO2 emissions (kt),low,0.0027434842249657062
-Forest area (% of land area),high,CO2 emissions (kt),low,0.0027434842249657062
-Forest area (% of land area),low,CO2 emissions (kt),below_average,0.0027434842249657062
-Land area (sq. km),below_average,CO2 emissions (kt),below_average,0.0027434842249657062
-Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),high,0.0027434842249657062
-"Electricity production from oil, gas and coal sources (% of total)",above_average,CO2 emissions (kt),below_average,0.0027434842249657062
-Access to electricity (% of population),below_average,CO2 emissions (kt),low,0.0027434842249657062
-Renewable energy consumption (% of total final energy consumption),above_average,CO2 emissions (kt),below_average,0.0024005486968449933
-"Electricity production from oil, gas and coal sources (% of total)",average,CO2 emissions (kt),below_average,0.0024005486968449933
-GDP growth (annual %),low,CO2 emissions (kt),below_average,0.00205761316872428
-Land area (sq. km),very_high,CO2 emissions (kt),high,0.00205761316872428
-Land area (sq. km),very_high,CO2 emissions (kt),below_average,0.00205761316872428
-Access to electricity (% of population),average,CO2 emissions (kt),below_average,0.00205761316872428
-Renewable energy consumption (% of total final energy consumption),above_average,CO2 emissions (kt),average,0.0017146776406035665
-Access to electricity (% of population),average,CO2 emissions (kt),average,0.0017146776406035665
-"Electricity production from oil, gas and coal sources (% of total)",average,CO2 emissions (kt),high,0.0017146776406035665
-Forest area (% of land area),below_average,CO2 emissions (kt),average,0.0017146776406035665
-Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),below_average,0.0017146776406035665
-Access to electricity (% of population),high,CO2 emissions (kt),average,0.0017146776406035665
-Land area (sq. km),very_high,CO2 emissions (kt),average,0.0017146776406035665
-Agricultural land (% of land area),below_average,CO2 emissions (kt),average,0.0017146776406035665
-Forest area (% of land area),average,CO2 emissions (kt),below_average,0.0013717421124828531
-Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),average,0.0013717421124828531
-Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),above_average,0.0013717421124828531
-Access to electricity (% of population),high,CO2 emissions (kt),above_average,0.0013717421124828531
-"Electricity production from oil, gas and coal sources (% of total)",above_average,CO2 emissions (kt),average,0.0013717421124828531
-Food imports (% of merchandise imports),low,CO2 emissions (kt),above_average,0.0013717421124828531
-Fuel imports (% of merchandise imports),low,CO2 emissions (kt),above_average,0.0013717421124828531
-Food exports (% of merchandise exports),low,CO2 emissions (kt),above_average,0.0013717421124828531
-Land area (sq. km),above_average,CO2 emissions (kt),high,0.0013717421124828531
-"Electricity production from oil, gas and coal sources (% of total)",below_average,CO2 emissions (kt),below_average,0.0013717421124828531
-"Electricity production from oil, gas and coal sources (% of total)",high,CO2 emissions (kt),high,0.0013717421124828531
-Fuel exports (% of merchandise exports),low,CO2 emissions (kt),above_average,0.0013717421124828531
-GDP growth (annual %),low,CO2 emissions (kt),high,0.0013717421124828531
-Land area (sq. km),average,CO2 emissions (kt),below_average,0.0013717421124828531
-"Electricity production from oil, gas and coal sources (% of total)",high,CO2 emissions (kt),average,0.00102880658436214
-Agricultural land (% of land area),average,CO2 emissions (kt),average,0.00102880658436214
-Agricultural land (% of land area),low,CO2 emissions (kt),below_average,0.00102880658436214
-"Energy imports, net (% of energy use)",low,CO2 emissions (kt),above_average,0.00102880658436214
-Forest area (% of land area),low,CO2 emissions (kt),high,0.00102880658436214
-"Electricity production from oil, gas and coal sources (% of total)",average,CO2 emissions (kt),above_average,0.00102880658436214
-Fuel imports (% of merchandise imports),below_average,CO2 emissions (kt),high,0.00102880658436214
-"Electricity production from oil, gas and coal sources (% of total)",average,CO2 emissions (kt),average,0.00102880658436214
-Agricultural land (% of land area),below_average,CO2 emissions (kt),above_average,0.00102880658436214
-Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),above_average,0.0006858710562414266
-Proportion of people living below 50 percent of median income (%),below_average,CO2 emissions (kt),below_average,0.0006858710562414266
-Agricultural land (% of land area),high,CO2 emissions (kt),below_average,0.0006858710562414266
-Agricultural land (% of land area),low,CO2 emissions (kt),average,0.0006858710562414266
-Proportion of people living below 50 percent of median income (%),low,CO2 emissions (kt),average,0.0006858710562414266
-Agricultural land (% of land area),above_average,CO2 emissions (kt),below_average,0.0006858710562414266
-Land area (sq. km),very_high,CO2 emissions (kt),above_average,0.0006858710562414266
-Agricultural land (% of land area),high,CO2 emissions (kt),low,0.0006858710562414266
-Forest area (% of land area),average,CO2 emissions (kt),above_average,0.0006858710562414266
-Forest area (% of land area),average,CO2 emissions (kt),average,0.0006858710562414266
-Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),above_average,0.0006858710562414266
-Forest area (% of land area),low,CO2 emissions (kt),average,0.0006858710562414266
-Access to electricity (% of population),above_average,CO2 emissions (kt),below_average,0.0003429355281207133
-Forest area (% of land area),above_average,CO2 emissions (kt),average,0.0003429355281207133
-GDP growth (annual %),average,CO2 emissions (kt),low,0.0003429355281207133
-Land area (sq. km),very_high,CO2 emissions (kt),low,0.0003429355281207133
-Agricultural land (% of land area),average,CO2 emissions (kt),above_average,0.0003429355281207133
-Forest area (% of land area),below_average,CO2 emissions (kt),above_average,0.0003429355281207133
-Land area (sq. km),above_average,CO2 emissions (kt),above_average,0.0003429355281207133
-Renewable energy consumption (% of total final energy consumption),average,CO2 emissions (kt),below_average,0.0003429355281207133
-Land area (sq. km),below_average,CO2 emissions (kt),average,0.0003429355281207133
-"Electricity production from oil, gas and coal sources (% of total)",high,CO2 emissions (kt),above_average,0.0003429355281207133
-"Energy imports, net (% of energy use)",low,CO2 emissions (kt),average,0.0003429355281207133
-Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),average,0.0003429355281207133
-"Electricity production from oil, gas and coal sources (% of total)",low,CO2 emissions (kt),below_average,0.0003429355281207133
-Forest area (% of land area),above_average,CO2 emissions (kt),below_average,0.0003429355281207133
-Fuel imports (% of merchandise imports),below_average,CO2 emissions (kt),below_average,0.0003429355281207133
-Agricultural land (% of land area),above_average,CO2 emissions (kt),high,0.0003429355281207133
-Forest area (% of land area),low,CO2 emissions (kt),above_average,0.0003429355281207133
-Proportion of people living below 50 percent of median income (%),low,CO2 emissions (kt),high,0.0003429355281207133
+Fuel imports (% of merchandise imports),low,CO2 emissions (kt),low,0.05153874675565443
+Access to electricity (% of population),high,CO2 emissions (kt),low,0.047089358546533185
+Food imports (% of merchandise imports),low,CO2 emissions (kt),low,0.04560622914349277
+Fuel exports (% of merchandise exports),low,CO2 emissions (kt),low,0.04486466444197256
+GDP per capita (current US$),low,CO2 emissions (kt),low,0.040415276232851315
+Food exports (% of merchandise exports),low,CO2 emissions (kt),low,0.03151649981460882
+Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),low,0.027067111605487578
+Land area (sq. km),below_average,CO2 emissions (kt),low,0.025954764553207266
+Forest area (% of land area),low,CO2 emissions (kt),low,0.023730070448646643
+Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),low,0.02039302929180571
+Agricultural land (% of land area),below_average,CO2 emissions (kt),low,0.018909899888765295
+Agricultural land (% of land area),average,CO2 emissions (kt),low,0.01853911753800519
+Agricultural land (% of land area),low,CO2 emissions (kt),low,0.017797552836484983
+Food imports (% of merchandise imports),below_average,CO2 emissions (kt),low,0.017426770485724878
+GDP growth (annual %),low,CO2 emissions (kt),low,0.016314423433444566
+Forest area (% of land area),below_average,CO2 emissions (kt),low,0.016314423433444566
+Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),low,0.015943641082684465
+Forest area (% of land area),average,CO2 emissions (kt),low,0.015202076381164257
+Land area (sq. km),very_low,CO2 emissions (kt),low,0.014460511679644048
+Food exports (% of merchandise exports),below_average,CO2 emissions (kt),low,0.013718946978123842
+Land area (sq. km),low,CO2 emissions (kt),low,0.013348164627363738
+Fuel imports (% of merchandise imports),below_average,CO2 emissions (kt),low,0.01260659992584353
+GDP per capita (current US$),below_average,CO2 emissions (kt),low,0.011865035224323322
+Fuel imports (% of merchandise imports),low,CO2 emissions (kt),below_average,0.010752688172043012
+Food imports (% of merchandise imports),low,CO2 emissions (kt),below_average,0.010381905821282907
+Renewable electricity output (% of total electricity output),below_average,CO2 emissions (kt),low,0.010011123470522803
+Agricultural land (% of land area),above_average,CO2 emissions (kt),low,0.010011123470522803
+Renewable electricity output (% of total electricity output),high,CO2 emissions (kt),low,0.010011123470522803
+Food imports (% of merchandise imports),low,CO2 emissions (kt),high,0.0096403411197627
+Food exports (% of merchandise exports),low,CO2 emissions (kt),high,0.0096403411197627
+Access to electricity (% of population),high,CO2 emissions (kt),high,0.0096403411197627
+Food exports (% of merchandise exports),low,CO2 emissions (kt),below_average,0.0096403411197627
+Renewable electricity output (% of total electricity output),average,CO2 emissions (kt),low,0.009269558769002595
+Renewable energy consumption (% of total final energy consumption),above_average,CO2 emissions (kt),low,0.008898776418242492
+Access to electricity (% of population),high,CO2 emissions (kt),below_average,0.008527994067482388
+Fuel exports (% of merchandise exports),low,CO2 emissions (kt),high,0.008527994067482388
+Fuel imports (% of merchandise imports),low,CO2 emissions (kt),high,0.008527994067482388
+Forest area (% of land area),below_average,CO2 emissions (kt),high,0.008527994067482388
+Food exports (% of merchandise exports),average,CO2 emissions (kt),low,0.00778642936596218
+Renewable energy consumption (% of total final energy consumption),average,CO2 emissions (kt),low,0.007415647015202077
+Access to electricity (% of population),average,CO2 emissions (kt),low,0.007415647015202077
+Renewable electricity output (% of total electricity output),above_average,CO2 emissions (kt),low,0.0070448646644419724
+Forest area (% of land area),above_average,CO2 emissions (kt),low,0.006674082313681869
+Fuel exports (% of merchandise exports),low,CO2 emissions (kt),below_average,0.006674082313681869
+Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),high,0.006674082313681869
+Land area (sq. km),average,CO2 emissions (kt),low,0.006674082313681869
+Renewable energy consumption (% of total final energy consumption),high,CO2 emissions (kt),low,0.006303299962921765
+Forest area (% of land area),below_average,CO2 emissions (kt),below_average,0.006303299962921765
+Access to electricity (% of population),above_average,CO2 emissions (kt),low,0.006303299962921765
+Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),below_average,0.006303299962921765
+Land area (sq. km),above_average,CO2 emissions (kt),low,0.005932517612161661
+Renewable electricity output (% of total electricity output),below_average,CO2 emissions (kt),high,0.005932517612161661
+Agricultural land (% of land area),below_average,CO2 emissions (kt),high,0.0055617352614015575
+Food exports (% of merchandise exports),high,CO2 emissions (kt),low,0.0055617352614015575
+Fuel exports (% of merchandise exports),below_average,CO2 emissions (kt),low,0.0055617352614015575
+GDP per capita (current US$),low,CO2 emissions (kt),below_average,0.005190952910641453
+Fuel exports (% of merchandise exports),high,CO2 emissions (kt),low,0.005190952910641453
+Agricultural land (% of land area),average,CO2 emissions (kt),below_average,0.00482017055988135
+Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),below_average,0.00482017055988135
+GDP per capita (current US$),high,CO2 emissions (kt),low,0.00482017055988135
+GDP per capita (current US$),above_average,CO2 emissions (kt),low,0.004449388209121246
+Renewable electricity output (% of total electricity output),below_average,CO2 emissions (kt),below_average,0.004078605858361142
+GDP per capita (current US$),average,CO2 emissions (kt),low,0.004078605858361142
+Food exports (% of merchandise exports),above_average,CO2 emissions (kt),low,0.004078605858361142
+GDP per capita (current US$),low,CO2 emissions (kt),high,0.0037078235076010383
+Fuel imports (% of merchandise imports),low,CO2 emissions (kt),average,0.0037078235076010383
+Food imports (% of merchandise imports),low,CO2 emissions (kt),average,0.0037078235076010383
+Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),high,0.0037078235076010383
+Agricultural land (% of land area),average,CO2 emissions (kt),high,0.0037078235076010383
+Agricultural land (% of land area),below_average,CO2 emissions (kt),below_average,0.0037078235076010383
+Land area (sq. km),above_average,CO2 emissions (kt),below_average,0.0033370411568409346
+GDP per capita (current US$),below_average,CO2 emissions (kt),high,0.0033370411568409346
+Fuel exports (% of merchandise exports),average,CO2 emissions (kt),low,0.0033370411568409346
+Forest area (% of land area),high,CO2 emissions (kt),low,0.0029662588060808304
+Access to electricity (% of population),below_average,CO2 emissions (kt),low,0.0029662588060808304
+Access to electricity (% of population),low,CO2 emissions (kt),low,0.0029662588060808304
+Forest area (% of land area),low,CO2 emissions (kt),below_average,0.0029662588060808304
+Food exports (% of merchandise exports),low,CO2 emissions (kt),average,0.0029662588060808304
+Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),high,0.0029662588060808304
+Land area (sq. km),below_average,CO2 emissions (kt),below_average,0.0029662588060808304
+GDP per capita (current US$),low,CO2 emissions (kt),average,0.0029662588060808304
+GDP per capita (current US$),below_average,CO2 emissions (kt),below_average,0.0025954764553207266
+Renewable energy consumption (% of total final energy consumption),above_average,CO2 emissions (kt),below_average,0.0025954764553207266
+Land area (sq. km),very_high,CO2 emissions (kt),high,0.002224694104560623
+GDP growth (annual %),low,CO2 emissions (kt),below_average,0.002224694104560623
+Access to electricity (% of population),average,CO2 emissions (kt),below_average,0.002224694104560623
+Land area (sq. km),very_high,CO2 emissions (kt),below_average,0.002224694104560623
+Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),below_average,0.0018539117538005192
+Access to electricity (% of population),high,CO2 emissions (kt),average,0.0018539117538005192
+GDP per capita (current US$),above_average,CO2 emissions (kt),below_average,0.0018539117538005192
+Land area (sq. km),very_high,CO2 emissions (kt),average,0.0018539117538005192
+Fuel exports (% of merchandise exports),below_average,CO2 emissions (kt),below_average,0.0018539117538005192
+Access to electricity (% of population),average,CO2 emissions (kt),average,0.0018539117538005192
+Agricultural land (% of land area),below_average,CO2 emissions (kt),average,0.0018539117538005192
+Forest area (% of land area),below_average,CO2 emissions (kt),average,0.0018539117538005192
+Renewable energy consumption (% of total final energy consumption),above_average,CO2 emissions (kt),average,0.0018539117538005192
+Food exports (% of merchandise exports),below_average,CO2 emissions (kt),below_average,0.0014831294030404152
+Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),average,0.0014831294030404152
+Renewable electricity output (% of total electricity output),below_average,CO2 emissions (kt),average,0.0014831294030404152
+Land area (sq. km),average,CO2 emissions (kt),below_average,0.0014831294030404152
+Access to electricity (% of population),high,CO2 emissions (kt),above_average,0.0014831294030404152
+Fuel exports (% of merchandise exports),above_average,CO2 emissions (kt),below_average,0.0014831294030404152
+Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),average,0.0014831294030404152
+GDP per capita (current US$),above_average,CO2 emissions (kt),high,0.0014831294030404152
+Food imports (% of merchandise imports),low,CO2 emissions (kt),above_average,0.0014831294030404152
+GDP growth (annual %),low,CO2 emissions (kt),high,0.0014831294030404152
+GDP per capita (current US$),average,CO2 emissions (kt),below_average,0.0014831294030404152
+Land area (sq. km),above_average,CO2 emissions (kt),high,0.0014831294030404152
+Fuel exports (% of merchandise exports),below_average,CO2 emissions (kt),average,0.0014831294030404152
+Fuel imports (% of merchandise imports),low,CO2 emissions (kt),above_average,0.0014831294030404152
+Forest area (% of land area),average,CO2 emissions (kt),below_average,0.0014831294030404152
+Agricultural land (% of land area),average,CO2 emissions (kt),average,0.0011123470522803114
+Fuel exports (% of merchandise exports),average,CO2 emissions (kt),average,0.0011123470522803114
+Fuel exports (% of merchandise exports),above_average,CO2 emissions (kt),low,0.0011123470522803114
+Forest area (% of land area),low,CO2 emissions (kt),high,0.0011123470522803114
+Food imports (% of merchandise imports),average,CO2 emissions (kt),low,0.0011123470522803114
+Agricultural land (% of land area),below_average,CO2 emissions (kt),above_average,0.0011123470522803114
+Renewable electricity output (% of total electricity output),above_average,CO2 emissions (kt),below_average,0.0011123470522803114
+GDP per capita (current US$),low,CO2 emissions (kt),above_average,0.0011123470522803114
+Renewable electricity output (% of total electricity output),average,CO2 emissions (kt),below_average,0.0011123470522803114
+Fuel imports (% of merchandise imports),below_average,CO2 emissions (kt),high,0.0011123470522803114
+Fuel exports (% of merchandise exports),low,CO2 emissions (kt),above_average,0.0011123470522803114
+Agricultural land (% of land area),low,CO2 emissions (kt),below_average,0.0011123470522803114
+Agricultural land (% of land area),low,CO2 emissions (kt),average,0.0007415647015202076
+Food exports (% of merchandise exports),low,CO2 emissions (kt),above_average,0.0007415647015202076
+Renewable energy consumption (% of total final energy consumption),low,CO2 emissions (kt),above_average,0.0007415647015202076
+Agricultural land (% of land area),high,CO2 emissions (kt),below_average,0.0007415647015202076
+Food imports (% of merchandise imports),below_average,CO2 emissions (kt),below_average,0.0007415647015202076
+Fuel exports (% of merchandise exports),below_average,CO2 emissions (kt),high,0.0007415647015202076
+Agricultural land (% of land area),above_average,CO2 emissions (kt),below_average,0.0007415647015202076
+Land area (sq. km),very_high,CO2 emissions (kt),above_average,0.0007415647015202076
+Fuel exports (% of merchandise exports),low,CO2 emissions (kt),average,0.0007415647015202076
+Fuel exports (% of merchandise exports),average,CO2 emissions (kt),below_average,0.0007415647015202076
+Renewable electricity output (% of total electricity output),average,CO2 emissions (kt),average,0.0007415647015202076
+Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),above_average,0.0007415647015202076
+Forest area (% of land area),low,CO2 emissions (kt),average,0.0007415647015202076
+Renewable electricity output (% of total electricity output),average,CO2 emissions (kt),above_average,0.0007415647015202076
+GDP per capita (current US$),high,CO2 emissions (kt),high,0.0007415647015202076
+Food exports (% of merchandise exports),below_average,CO2 emissions (kt),above_average,0.0007415647015202076
+Forest area (% of land area),average,CO2 emissions (kt),average,0.0007415647015202076
+Forest area (% of land area),average,CO2 emissions (kt),above_average,0.0007415647015202076
+Food exports (% of merchandise exports),below_average,CO2 emissions (kt),average,0.0007415647015202076
+Agricultural land (% of land area),high,CO2 emissions (kt),low,0.0007415647015202076
+GDP per capita (current US$),above_average,CO2 emissions (kt),above_average,0.0003707823507601038
+Forest area (% of land area),above_average,CO2 emissions (kt),average,0.0003707823507601038
+Renewable electricity output (% of total electricity output),below_average,CO2 emissions (kt),above_average,0.0003707823507601038
+Land area (sq. km),above_average,CO2 emissions (kt),above_average,0.0003707823507601038
+Forest area (% of land area),below_average,CO2 emissions (kt),above_average,0.0003707823507601038
+Renewable energy consumption (% of total final energy consumption),average,CO2 emissions (kt),below_average,0.0003707823507601038
+Agricultural land (% of land area),average,CO2 emissions (kt),above_average,0.0003707823507601038
+Land area (sq. km),very_high,CO2 emissions (kt),low,0.0003707823507601038
+Fuel exports (% of merchandise exports),above_average,CO2 emissions (kt),average,0.0003707823507601038
+GDP per capita (current US$),below_average,CO2 emissions (kt),average,0.0003707823507601038
+Land area (sq. km),below_average,CO2 emissions (kt),average,0.0003707823507601038
+GDP per capita (current US$),above_average,CO2 emissions (kt),average,0.0003707823507601038
+Fuel exports (% of merchandise exports),average,CO2 emissions (kt),high,0.0003707823507601038
+Forest area (% of land area),above_average,CO2 emissions (kt),below_average,0.0003707823507601038
+Fuel imports (% of merchandise imports),below_average,CO2 emissions (kt),below_average,0.0003707823507601038
+Forest area (% of land area),low,CO2 emissions (kt),above_average,0.0003707823507601038
+Renewable energy consumption (% of total final energy consumption),below_average,CO2 emissions (kt),average,0.0003707823507601038
+Renewable electricity output (% of total electricity output),low,CO2 emissions (kt),above_average,0.0003707823507601038
+Fuel exports (% of merchandise exports),average,CO2 emissions (kt),above_average,0.0003707823507601038
+Agricultural land (% of land area),above_average,CO2 emissions (kt),high,0.0003707823507601038
+GDP per capita (current US$),average,CO2 emissions (kt),high,0.0003707823507601038
+Access to electricity (% of population),above_average,CO2 emissions (kt),below_average,0.0003707823507601038
+GDP growth (annual %),average,CO2 emissions (kt),low,0.0003707823507601038
