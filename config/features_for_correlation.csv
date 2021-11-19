@@ -1,0 +1,2 @@
+﻿path1,name1,path2,name2,output_path,correlation
+../Output/Not Binned/Land/AG.LND.FRST.ZS_NotBinned.csv,Forest Area,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/ForestAndCo2.csv,negative

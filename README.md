@@ -28,6 +28,14 @@
     ```
     chmod +x ./scripts/getIndicators.sh
     ``` 
+ - Find correlation between two indicators
+    - In config/features_for_correlation.csv add path of location of indicators files and their name. Also add output path with file_name.csv.
+    - python file src/mainFeatureCorrelation.py is use to correlation for each indicators in the config file and save those in output/Correlation. Seprate csv file is genrated  for every entry in config file.
+    - Run mainFeatureCorrelation.py to genrate correlation result. It is saved in output/Correlation/
+    ```
+    python3 ./src/mainFeatureCorrelation.py
+    ```   
+    - Code for findind correlation is in pearsonCorrelation.py in ./src. This file is used by mainFeatureCorrelation.py to calculate R and P_value for each entry in config file
 
 
 ## Links

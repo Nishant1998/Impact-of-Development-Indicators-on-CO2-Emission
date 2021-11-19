@@ -32,7 +32,7 @@ def getCountriesName(df1,df2):
     It does not consider which have unknown value for all years.
     CountriesList.csv have info which are 195 countres and which are other groups'''
     
-    contriesListDf = pd.read_csv("../temp/CountriesList.csv")
+    contriesListDf = pd.read_csv("../Output/CountriesList.csv")
     
     commonCountry = np.intersect1d(np.array(df1.Country_Name.to_list()), np.array(df2.Country_Name.to_list()))
     contriesList = np.intersect1d(commonCountry, np.array(contriesListDf[contriesListDf['Type'] == 'country'].Name.to_list()))
