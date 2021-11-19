@@ -10,11 +10,12 @@ from multiprocessing.pool import ThreadPool
 import shutil
 
 WORLD_BANK_URL = "https://api.worldbank.org/v2/country/all/indicator/%s?source=2&downloadformat=csv"
+OUTPUT_DIR = getAbsPath("data/worldbank/")
 def fetchFile(args):
     ind_name, sub_dir_name = args
     url = WORLD_BANK_URL % ind_name
     unzip_dir = getAbsPath("temp/download/%s" % ind_name)
-    outputDirectory = getAbsPath("data/worldbank/%s/" % (sub_dir_name))
+    outputDirectory = "%s/%s/" % (OUTPUT_DIR, sub_dir_name)
     outfile = getAbsPath(outputDirectory + "/" + ind_name + ".csv")
 
     #skip if file already exists
@@ -38,8 +39,22 @@ def fetchFile(args):
 
     return "%s, downloaded successfully!" % (ind_name)
 
+def deleteFiles(rows):
+    for index, row in rows.iterrows():
+        ind_code = row["Indicator Code"]
+        ind_type = row["Type"]
+        file_path = "%s/%s/%s.csv" % (OUTPUT_DIR, ind_type, ind_code)
+
+        if isFile(file_path):
+            print("removing file %s.csv" % ind_code)
+            os.remove(file_path)
+
 def run():
     config = pd.read_csv(getAbsPath("config/indicators.csv"))
+    
+    deleteFiles(config.loc[config["Primary"] == False])
+    deleteFiles(config.loc[config["Primary"].isna()])
+
     config = config.loc[config["Primary"] == True]
 
     indicators = []
