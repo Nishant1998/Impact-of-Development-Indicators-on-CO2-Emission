@@ -1,267 +1,267 @@
-Name,Type
-Afghanistan,country
-Africa Eastern and Southern,other
-Africa Western and Central,other
-Albania,country
-Algeria,country
-American Samoa,other
-Andorra,country
-Angola,country
-Antigua and Barbuda,country
-Arab World,other
-Argentina,country
-Armenia,country
-Aruba,other
-Australia,country
-Austria,country
-Azerbaijan,country
-"Bahamas, The",country
-Bahrain,country
-Bangladesh,country
-Barbados,country
-Belarus,country
-Belgium,country
-Belize,country
-Benin,country
-Bermuda,other
-Bhutan,country
-Bolivia,country
-Bosnia and Herzegovina,country
-Botswana,country
-Brazil,country
-British Virgin Islands,other
-Brunei Darussalam,country
-Bulgaria,country
-Burkina Faso,country
-Burundi,country
-Cabo Verde,country
-Cambodia,country
-Cameroon,country
-Canada,country
-Caribbean small states,other
-Cayman Islands,other
-Central African Republic,country
-Central Europe and the Baltics,other
-Chad,country
-Channel Islands,other
-Chile,country
-China,country
-Colombia,country
-Comoros,country
-"Congo, Dem. Rep.",country
-"Congo, Rep.",country
-Costa Rica,country
-Cote d'Ivoire,country
-Croatia,country
-Cuba,country
-Curacao,other
-Cyprus,country
-Czech Republic,country
-Denmark,country
-Djibouti,country
-Dominica,country
-Dominican Republic,country
-Early-demographic dividend,other
-East Asia & Pacific,other
-East Asia & Pacific (IDA & IBRD countries),other
-East Asia & Pacific (excluding high income),other
-Ecuador,country
-"Egypt, Arab Rep.",country
-El Salvador,country
-Equatorial Guinea,country
-Eritrea,country
-Estonia,country
-Eswatini,country
-Ethiopia,country
-Euro area,other
-Europe & Central Asia,other
-Europe & Central Asia (IDA & IBRD countries),other
-Europe & Central Asia (excluding high income),other
-European Union,other
-Faroe Islands,other
-Fiji,country
-Finland,country
-Fragile and conflict affected situations,other
-France,country
-French Polynesia,other
-Gabon,country
-"Gambia, The",country
-Georgia,country
-Germany,country
-Ghana,country
-Gibraltar,other
-Greece,country
-Greenland,country
-Grenada,country
-Guam,other
-Guatemala,country
-Guinea,country
-Guinea-Bissau,country
-Guyana,country
-Haiti,country
-Heavily indebted poor countries (HIPC),other
-High income,other
-Honduras,country
-"Hong Kong SAR, China",other
-Hungary,country
-IBRD only,other
-IDA & IBRD total,other
-IDA blend,other
-IDA only,other
-IDA total,other
-Iceland,country
-India,country
-Indonesia,country
-"Iran, Islamic Rep.",country
-Iraq,country
-Ireland,country
-Isle of Man,other
-Israel,country
-Italy,country
-Jamaica,country
-Japan,country
-Jordan,country
-Kazakhstan,country
-Kenya,country
-Kiribati,country
-"Korea, Dem. People's Rep.",country
-"Korea, Rep.",country
-Kosovo,country
-Kuwait,country
-Kyrgyz Republic,country
-Lao PDR,country
-Late-demographic dividend,other
-Latin America & Caribbean,other
-Latin America & Caribbean (excluding high income),other
-Latin America & the Caribbean (IDA & IBRD countries),other
-Latvia,country
-Least developed countries: UN classification,other
-Lebanon,country
-Lesotho,country
-Liberia,country
-Libya,country
-Liechtenstein,country
-Lithuania,country
-Low & middle income,other
-Low income,other
-Lower middle income,other
-Luxembourg,country
-"Macao SAR, China",other
-Madagascar,country
-Malawi,country
-Malaysia,country
-Maldives,country
-Mali,country
-Malta,country
-Marshall Islands,country
-Mauritania,country
-Mauritius,country
-Mexico,country
-"Micronesia, Fed. Sts.",country
-Middle East & North Africa,other
-Middle East & North Africa (IDA & IBRD countries),other
-Middle East & North Africa (excluding high income),other
-Middle income,other
-Moldova,country
-Monaco,country
-Mongolia,country
-Montenegro,country
-Morocco,country
-Mozambique,country
-Myanmar,country
-Namibia,country
-Nauru,country
-Nepal,country
-Netherlands,country
-New Caledonia,other
-New Zealand,country
-Nicaragua,country
-Niger,country
-Nigeria,country
-North America,other
-North Macedonia,country
-Northern Mariana Islands,other
-Norway,country
-Not classified,other
-OECD members,other
-Oman,country
-Other small states,other
-Pacific island small states,other
-Pakistan,country
-Palau,country
-Panama,country
-Papua New Guinea,country
-Paraguay,country
-Peru,country
-Philippines,country
-Poland,country
-Portugal,country
-Post-demographic dividend,other
-Pre-demographic dividend,other
-Puerto Rico,other
-Qatar,country
-Romania,country
-Russian Federation,country
-Rwanda,country
-Samoa,country
-San Marino,country
-Sao Tome and Principe,country
-Saudi Arabia,country
-Senegal,country
-Serbia,country
-Seychelles,country
-Sierra Leone,country
-Singapore,country
-Sint Maarten (Dutch part),other
-Slovak Republic,country
-Slovenia,country
-Small states,other
-Solomon Islands,country
-Somalia,country
-South Africa,country
-South Asia,other
-South Asia (IDA & IBRD),other
-South Sudan,country
-Spain,country
-Sri Lanka,country
-St. Kitts and Nevis,country
-St. Lucia,country
-St. Martin (French part),other
-St. Vincent and the Grenadines,country
-Sub-Saharan Africa,other
-Sub-Saharan Africa (IDA & IBRD countries),other
-Sub-Saharan Africa (excluding high income),other
-Sudan,country
-Suriname,country
-Sweden,country
-Switzerland,country
-Syrian Arab Republic,country
-Tajikistan,country
-Tanzania,country
-Thailand,country
-Timor-Leste,country
-Togo,country
-Tonga,country
-Trinidad and Tobago,country
-Tunisia,country
-Turkey,country
-Turkmenistan,country
-Turks and Caicos Islands,other
-Tuvalu,country
-Uganda,country
-Ukraine,country
-United Arab Emirates,country
-United Kingdom,country
-United States,country
-Upper middle income,other
-Uruguay,country
-Uzbekistan,country
-Vanuatu,country
-"Venezuela, RB",country
-Vietnam,country
-Virgin Islands (U.S.),other
-West Bank and Gaza,other
-World,other
-"Yemen, Rep.",country
-Zambia,country
-Zimbabwe,country
+Name,Type,Economy_Type
+Afghanistan,country,under_developed 
+Africa Eastern and Southern,other,
+Africa Western and Central,other,
+Albania,country,developing 
+Algeria,country,developing 
+American Samoa,other,
+Andorra,country,developed
+Angola,country,developing 
+Antigua and Barbunder_developed a,country,developing 
+Arab World,other,
+Argentina,country,developing 
+Armenia,country,developing 
+Aruba,other,
+Australia,country,developed
+Austria,country,developed
+Azerbaijan,country,developing 
+"Bahamas, The",country,developing 
+Bahrain,country,developing 
+Bangladesh,country,developing 
+Barbados,country,developing 
+Belarus,country,developing 
+Belgium,country,developed
+Belize,country,developing 
+Benin,country,developing 
+Bermunder_developed a,other,
+Bhutan,country,under_developed 
+Bolivia,country,developing 
+Bosnia and Herzegovina,country,developing 
+Botswana,country,developing 
+Brazil,country,developing 
+British Virgin Islands,other,
+Brunei Darussalam,country,developing 
+Bulgaria,country,developed
+Burkina Faso,country,developing 
+Burundi,country,developing 
+Cabo Verde,country,developing 
+Cambodia,country,under_developed 
+Cameroon,country,developing 
+Canada,country,developed
+Caribbean small states,other,
+Cayman Islands,other,
+Central African Republic,country,developing 
+Central Europe and the Baltics,other,
+Chad,country,developing 
+Channel Islands,other,
+Chile,country,developing 
+China,country,developing 
+Colombia,country,developing 
+Comoros,country,developing 
+"Congo, Dem. Rep.",country,developing 
+"Congo, Rep.",country,developing 
+Costa Rica,country,developing 
+Cote d'Ivoire,country,developing 
+Croatia,country,developed
+Cuba,country,developing 
+Curacao,other,
+Cyprus,country,developed
+Czech Republic,country,developed
+Denmark,country,developed
+Djibouti,country,developing 
+Dominica,country,developing 
+Dominican Republic,country,developing 
+Early-demographic dividend,other,
+East Asia & Pacific,other,
+East Asia & Pacific (IDA & IBRD countries),other,
+East Asia & Pacific (exclunder_developed ing high income),other,
+Ecuador,country,developing 
+"Egypt, Arab Rep.",country,developing 
+El Salvador,country,developing 
+Equatorial Guinea,country,developing 
+Eritrea,country,developing 
+Estonia,country,developed
+Eswatini,country,developing 
+Ethiopia,country,developing 
+Euro area,other,
+Europe & Central Asia,other,
+Europe & Central Asia (IDA & IBRD countries),other,
+Europe & Central Asia (exclunder_developed ing high income),other,
+European Union,other,
+Faroe Islands,other,
+Fiji,country,developing 
+Finland,country,developed
+Fragile and conflict affected situations,other,
+France,country,developed
+French Polynesia,other,
+Gabon,country,developing 
+"Gambia, The",country,under_developed 
+Georgia,country,developing 
+Germany,country,developed
+Ghana,country,developing 
+Gibraltar,other,
+Greece,country,developed
+Greenland,country,developed
+Grenada,country,developing 
+Guam,other,
+Guatemala,country,developing 
+Guinea,country,developing 
+Guinea-Bissau,country,developing 
+Guyana,country,developing 
+Haiti,country,developing 
+Heavily indebted poor countries (HIPC),other,
+High income,other,
+Honduras,country,developing 
+"Hong Kong SAR, China",other,
+Hungary,country,developed
+IBRD only,other,
+IDA & IBRD total,other,
+IDA blend,other,
+IDA only,other,
+IDA total,other,
+Iceland,country,developed
+India,country,developing 
+Indonesia,country,developing 
+"Iran, Islamic Rep.",country,developing 
+Iraq,country,developing 
+Ireland,country,developed
+Isle of Man,other,
+Israel,country,developing 
+Italy,country,developed
+Jamaica,country,developing 
+Japan,country,developed
+Jordan,country,developing 
+Kazakhstan,country,developed
+Kenya,country,developing 
+Kiribati,country,under_developed 
+"Korea, Dem. People's Rep.",country,under_developed 
+"Korea, Rep.",country,developing 
+Kosovo,country,developing 
+Kuwait,country,developed
+Kyrgyz Republic,country,developing 
+Lao PDR,country,under_developed 
+Late-demographic dividend,other,
+Latin America & Caribbean,other,
+Latin America & Caribbean (exclunder_developed ing high income),other,
+Latin America & the Caribbean (IDA & IBRD countries),other,
+Latvia,country,developed
+Least developed countries: UN classification,other,
+Lebanon,country,developing 
+Lesotho,country,developing 
+Liberia,country,developing 
+Libya,country,developing 
+Liechtenstein,country,developed
+Lithuania,country,developed
+Low & middle income,other,
+Low income,other,
+Lower middle income,other,
+Luxembourg,country,developed
+"Macao SAR, China",other,
+Madagascar,country,developing 
+Malawi,country,under_developed 
+Malaysia,country,developing 
+Maldives,country,developing 
+Mali,country,developing 
+Malta,country,developed
+Marshall Islands,country,developing 
+Mauritania,country,developing 
+Mauritius,country,developing 
+Mexico,country,developing 
+"Micronesia, Fed. Sts.",country,developing 
+Middle East & North Africa,other,
+Middle East & North Africa (IDA & IBRD countries),other,
+Middle East & North Africa (exclunder_developed ing high income),other,
+Middle income,other,
+Moldova,country,developing 
+Monaco,country,developed
+Mongolia,country,developing 
+Montenegro,country,developing 
+Morocco,country,developing 
+Mozambique,country,developing 
+Myanmar,country,developing 
+Namibia,country,developing 
+Nauru,country,developing 
+Nepal,country,developing 
+Netherlands,country,developed
+New Caledonia,other,
+New Zealand,country,developed
+Nicaragua,country,developing 
+Niger,country,developing 
+Nigeria,country,developing 
+North America,other,
+North Macedonia,country,developing 
+Northern Mariana Islands,other,
+Norway,country,developed
+Not classified,other,
+OECD members,other,
+Oman,country,developing 
+Other small states,other,
+Pacific island small states,other,
+Pakistan,country,developing 
+Palau,country,developing 
+Panama,country,developing 
+Papua New Guinea,country,developing 
+Paraguay,country,developing 
+Peru,country,developing 
+Philippines,country,developing 
+Poland,country,developed
+Portugal,country,developed
+Post-demographic dividend,other,
+Pre-demographic dividend,other,
+Puerto Rico,other,
+Qatar,country,developing 
+Romania,country,developed
+Russian Federation,country,developing 
+Rwanda,country,developing 
+Samoa,country,under_developed 
+San Marino,country,developed
+Sao Tome and Principe,country,under_developed 
+Saunder_developed i Arabia,country,developing 
+Senegal,country,developed
+Serbia,country,developing 
+Seychelles,country,developing 
+Sierra Leone,country,developing 
+Singapore,country,developing 
+Sint Maarten (Dutch part),other,
+Slovak Republic,country,developed
+Slovenia,country,developed
+Small states,other,
+Solomon Islands,country,under_developed 
+Somalia,country,under_developed 
+South Africa,country,developing 
+South Asia,other,
+South Asia (IDA & IBRD),other,
+South Sunder_developed an,country,under_developed 
+Spain,country,developed
+Sri Lanka,country,developing 
+St. Kitts and Nevis,country,developing 
+St. Lucia,country,developing 
+St. Martin (French part),other,
+St. Vincent and the Grenadines,country,developing 
+Sub-Saharan Africa,other,
+Sub-Saharan Africa (IDA & IBRD countries),other,
+Sub-Saharan Africa (exclunder_developed ing high income),other,
+Sunder_developed an,country,developing 
+Suriname,country,developing 
+Sweden,country,developed
+Switzerland,country,developed
+Syrian Arab Republic,country,developing 
+Tajikistan,country,developing 
+Tanzania,country,developing 
+Thailand,country,developing 
+Timor-Leste,country,under_developed 
+Togo,country,developing 
+Tonga,country,developing 
+Trinidad and Tobago,country,developing 
+Tunisia,country,developing 
+Turkey,country,developing 
+Turkmenistan,country,developing 
+Turks and Caicos Islands,other,
+Tuvalu,country,under_developed 
+Uganda,country,developing 
+Ukraine,country,developing 
+United Arab Emirates,country,developing 
+United Kingdom,country,developed
+United States,country,developed
+Upper middle income,other,
+Uruguay,country,developing 
+Uzbekistan,country,developing 
+Vanuatu,country,under_developed 
+"Venezuela, RB",country,developing 
+Vietnam,country,developing 
+Virgin Islands (U.S.),other,
+West Bank and Gaza,other,
+World,other,
+"Yemen, Rep.",country,under_developed 
+Zambia,country,developing 
+Zimbabwe,country,developing 
