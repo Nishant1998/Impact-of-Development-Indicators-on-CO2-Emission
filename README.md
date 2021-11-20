@@ -4,6 +4,9 @@
 - Python 3.8.10
     - requests 2.22.0, For importing data from world bank api
     - mlxtend 0.19.0, For association rule mining 
+    - numpy
+    - pandas
+    - pearsonr from scipy.stats.stats, For calculating pearson correlation coefficient.
 
 ## Folder Structure
 - *data* contains all the data files that are used as inputs
