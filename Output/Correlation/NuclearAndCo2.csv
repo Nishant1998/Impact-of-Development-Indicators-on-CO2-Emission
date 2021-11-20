@@ -1,0 +1,137 @@
+Country_Name,Country_Code,R,P_Value,correlation,Significant
+Albania,ALB,,,NO,False
+Algeria,DZA,,,NO,False
+Angola,AGO,,,NO,False
+Argentina,ARG,-0.92270488482105,1.5647991699330558e-13,NEG,True
+Armenia,ARM,-0.5659768737322164,0.0009047036236376235,NEG,True
+Australia,AUS,,,NO,False
+Austria,AUT,,,NO,False
+Azerbaijan,AZE,,,NO,False
+Bahrain,BHR,,,NO,False
+Bangladesh,BGD,,,NO,False
+Belarus,BLR,,,NO,False
+Belgium,BEL,0.83082135140667,7.2573776556142995e-09,POS,True
+Benin,BEN,,,NO,False
+Bolivia,BOL,,,NO,False
+Bosnia and Herzegovina,BIH,,,NO,False
+Botswana,BWA,,,NO,False
+Brazil,BRA,0.6310988555724495,0.00014089372108546812,POS,True
+Brunei Darussalam,BRN,,,NO,False
+Bulgaria,BGR,0.02148191101441136,0.9086796528920995,POS,False
+Cambodia,KHM,,,NO,False
+Cameroon,CMR,,,NO,False
+Canada,CAN,-0.2946663873608089,0.10757873337574175,NEG,False
+Chile,CHL,,,NO,False
+China,CHN,0.7867907604912182,1.5333431093675756e-07,POS,True
+Colombia,COL,,,NO,False
+"Congo, Dem. Rep.",COD,,,NO,False
+"Congo, Rep.",COG,,,NO,False
+Costa Rica,CRI,,,NO,False
+Cote d'Ivoire,CIV,,,NO,False
+Croatia,HRV,,,NO,False
+Cuba,CUB,,,NO,False
+Cyprus,CYP,,,NO,False
+Czech Republic,CZE,-0.7414531806590853,1.824370908679242e-06,NEG,True
+Denmark,DNK,,,NO,False
+Dominican Republic,DOM,,,NO,False
+Ecuador,ECU,,,NO,False
+"Egypt, Arab Rep.",EGY,,,NO,False
+El Salvador,SLV,,,NO,False
+Eritrea,ERI,,,NO,False
+Estonia,EST,,,NO,False
+Ethiopia,ETH,,,NO,False
+Finland,FIN,-0.8799124951039,7.018968243928988e-11,NEG,True
+France,FRA,-0.09851684221517275,0.5980108317954067,NEG,False
+Gabon,GAB,,,NO,False
+Georgia,GEO,,,NO,False
+Germany,DEU,0.8540498445791902,9.981161351908317e-10,POS,True
+Ghana,GHA,,,NO,False
+Greece,GRC,,,NO,False
+Guatemala,GTM,,,NO,False
+Haiti,HTI,,,NO,False
+Honduras,HND,,,NO,False
+Hungary,HUN,-0.6116757160081893,0.0002560338497504278,NEG,True
+Iceland,ISL,,,NO,False
+India,IND,0.5606113007599992,0.0010369343745352119,POS,True
+Indonesia,IDN,,,NO,False
+"Iran, Islamic Rep.",IRN,0.7313751637077018,2.9558188327251274e-06,POS,True
+Iraq,IRQ,,,NO,False
+Ireland,IRL,,,NO,False
+Israel,ISR,,,NO,False
+Italy,ITA,,,NO,False
+Jamaica,JAM,,,NO,False
+Japan,JPN,-0.09933867159535602,0.5949452318130987,NEG,False
+Jordan,JOR,,,NO,False
+Kazakhstan,KAZ,,,NO,False
+Kenya,KEN,,,NO,False
+"Korea, Dem. People's Rep.",PRK,,,NO,False
+"Korea, Rep.",KOR,-0.9259518111858039,8.57877924901245e-14,NEG,True
+Kuwait,KWT,,,NO,False
+Kyrgyz Republic,KGZ,,,NO,False
+Latvia,LVA,,,NO,False
+Lebanon,LBN,,,NO,False
+Libya,LBY,,,NO,False
+Lithuania,LTU,0.22024012208772276,0.23383408156400648,POS,False
+Luxembourg,LUX,,,NO,False
+Malaysia,MYS,,,NO,False
+Malta,MLT,,,NO,False
+Mauritius,MUS,,,NO,False
+Mexico,MEX,-0.185282779315687,0.3183315531849402,NEG,False
+Moldova,MDA,,,NO,False
+Mongolia,MNG,,,NO,False
+Montenegro,MNE,,,NO,False
+Morocco,MAR,,,NO,False
+Mozambique,MOZ,,,NO,False
+Myanmar,MMR,,,NO,False
+Namibia,NAM,,,NO,False
+Nepal,NPL,,,NO,False
+Netherlands,NLD,0.004306253900680679,0.9816574683812465,POS,False
+New Zealand,NZL,,,NO,False
+Nicaragua,NIC,,,NO,False
+Niger,NER,,,NO,False
+Nigeria,NGA,,,NO,False
+North Macedonia,MKD,,,NO,False
+Norway,NOR,,,NO,False
+Oman,OMN,,,NO,False
+Pakistan,PAK,0.8485236671212881,1.6481552430588352e-09,POS,True
+Panama,PAN,,,NO,False
+Paraguay,PRY,,,NO,False
+Peru,PER,,,NO,False
+Philippines,PHL,,,NO,False
+Poland,POL,,,NO,False
+Portugal,PRT,,,NO,False
+Qatar,QAT,,,NO,False
+Romania,ROU,-0.8806678870710439,6.437587096886491e-11,NEG,True
+Russian Federation,RUS,-0.49736870399115796,0.00441678837866165,NEG,True
+Senegal,SEN,,,NO,False
+Serbia,SRB,,,NO,False
+Singapore,SGP,,,NO,False
+Slovak Republic,SVK,-0.7351627397066708,2.4717953922938137e-06,NEG,True
+Slovenia,SVN,0.16299158164746858,0.380983679610502,POS,False
+South Africa,ZAF,-0.2682172127147329,0.14459611607852627,NEG,False
+Spain,ESP,-0.5812577547188124,0.0006055544288843579,NEG,True
+Sri Lanka,LKA,,,NO,False
+Suriname,SUR,,,NO,False
+Sweden,SWE,0.8379335558209492,4.086537278382742e-09,POS,True
+Switzerland,CHE,0.7106008161557701,7.497127222064221e-06,POS,True
+Syrian Arab Republic,SYR,,,NO,False
+Tajikistan,TJK,,,NO,False
+Tanzania,TZA,,,NO,False
+Thailand,THA,,,NO,False
+Togo,TGO,,,NO,False
+Trinidad and Tobago,TTO,,,NO,False
+Tunisia,TUN,,,NO,False
+Turkey,TUR,,,NO,False
+Turkmenistan,TKM,,,NO,False
+Ukraine,UKR,-0.952344009869075,1.7082382046857215e-16,NEG,True
+United Arab Emirates,ARE,,,NO,False
+United Kingdom,GBR,0.31335100850615577,0.08607031258884537,POS,False
+United States,USA,0.0623004391421432,0.739177095990577,POS,False
+Uruguay,URY,,,NO,False
+Uzbekistan,UZB,,,NO,False
+"Venezuela, RB",VEN,,,NO,False
+Vietnam,VNM,,,NO,False
+World,WLD,-0.9572407000858669,3.660081591222948e-17,NEG,True
+"Yemen, Rep.",YEM,,,NO,False
+Zambia,ZMB,,,NO,False
+Zimbabwe,ZWE,,,NO,False
