@@ -1,7 +1,7 @@
 antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedents_len,consequents_len,interesting
-frozenset({'EG.FEC.RNEW.ZS@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'EG.ELC.RNEW.ZS@above_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'EG.FEC.RNEW.ZS@above_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'EG.ELC.RNEW.ZS@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'EG.ELC.ACCS.ZS@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'AG.LND.TOTL.K2@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'AG.LND.FRST.ZS@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'AG.LND.FRST.ZS@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'AG.LND.AGRI.ZS@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True

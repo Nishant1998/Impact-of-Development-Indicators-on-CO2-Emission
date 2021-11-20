@@ -1,6 +1,6 @@
 "Indicator Name","Indicator Code","Primary","Selected","Type","Bins","Labels","Normalize","Source"
 "Access to clean fuels and technologies for cooking (% of population)","EG.CFT.ACCS.ZS",,"TRUE","Resources",0,100,30,
-"Access to electricity (% of population)","EG.ELC.ACCS.ZS","TRUE","TRUE","Resources","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
+"Access to electricity (% of population)","EG.ELC.ACCS.ZS","TRUE","TRUE","Resources","[0, 22.70, 37.78, 55.40, 77.17, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map"
 "Access to electricity, rural (% of rural population)","EG.ELC.ACCS.RU.ZS",,"TRUE","Resources",0,100,30,
 "Access to electricity, urban (% of urban population)","EG.ELC.ACCS.UR.ZS",,"TRUE","Resources",0,100,30,
 "Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+)","FX.OWN.TOTL.ZS",,,,,,,
@@ -57,7 +57,7 @@
 "Age dependency ratio, old (% of working-age population)","SP.POP.DPND.OL",,,,,,,
 "Age dependency ratio, young (% of working-age population)","SP.POP.DPND.YG",,,,,,,
 "Agricultural irrigated land (% of total agricultural land)","AG.LND.IRIG.AG.ZS",,"TRUE","Agriculture",0,100,30,
-"Agricultural land (% of land area)","AG.LND.AGRI.ZS","TRUE","TRUE","Agriculture","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
+"Agricultural land (% of land area)","AG.LND.AGRI.ZS","TRUE","TRUE","Agriculture","[0, 14.17, 26.75, 38.48, 50.28, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?view=map"
 "Agricultural land (sq. km)","AG.LND.AGRI.K2",,,,,,,
 "Agricultural machinery, tractors","AG.AGR.TRAC.NO",,,,,,,
 "Agricultural machinery, tractors per 100 sq. km of arable land","AG.LND.TRAC.ZS",,,,,,,
@@ -446,8 +446,8 @@
 "Fixed broadband subscriptions (per 100 people)","IT.NET.BBND.P2",,,,,,,
 "Fixed telephone subscriptions","IT.MLT.MAIN",,,,,,,
 "Fixed telephone subscriptions (per 100 people)","IT.MLT.MAIN.P2",,,,,,,
-"Food exports (% of merchandise exports)","TX.VAL.FOOD.ZS.UN","TRUE","TRUE","Resources","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
-"Food imports (% of merchandise imports)","TM.VAL.FOOD.ZS.UN","TRUE","TRUE","Resources","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
+"Food exports (% of merchandise exports)","TX.VAL.FOOD.ZS.UN","TRUE","TRUE","Resources","[0, 5.91, 13.42, 27.76, 51.42, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/TX.VAL.FOOD.ZS.UN?view=map"
+"Food imports (% of merchandise imports)","TM.VAL.FOOD.ZS.UN","TRUE","TRUE","Resources","[0, 4.47, 8.70, 11.2, 15.42, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/TM.VAL.FOOD.ZS.UN?view=map"
 "Food production index (2014-2016 = 100)","AG.PRD.FOOD.XD",,,,,,,
 "Food, beverages and tobacco (% of value added in manufacturing)","NV.MNF.FBTO.ZS.UN",,,,,,,
 "Foreign direct investment, net (BoP, current US$)","BN.KLT.DINV.CD",,,,,,,
@@ -455,19 +455,19 @@
 "Foreign direct investment, net inflows (BoP, current US$)","BX.KLT.DINV.CD.WD",,,,,,,
 "Foreign direct investment, net outflows (% of GDP)","BM.KLT.DINV.WD.GD.ZS",,,,,,,
 "Foreign direct investment, net outflows (BoP, current US$)","BM.KLT.DINV.CD.WD",,,,,,,
-"Forest area (% of land area)","AG.LND.FRST.ZS","TRUE","TRUE","Land","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
+"Forest area (% of land area)","AG.LND.FRST.ZS","TRUE","TRUE","Land","[0, 6.86, 19.10, 34.27, 47.25, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/AG.LND.FRST.ZS?view=map"
 "Forest area (sq. km)","AG.LND.FRST.K2",,,,,,,
 "Forest rents (% of GDP)","NY.GDP.FRST.RT.ZS",,"TRUE","Finance",0,100,30,
 "Fossil fuel energy consumption (% of total)","EG.USE.COMM.FO.ZS",,,,,,,
-"Fuel exports (% of merchandise exports)","TX.VAL.FUEL.ZS.UN","TRUE","TRUE","Resources","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
-"Fuel imports (% of merchandise imports)","TM.VAL.FUEL.ZS.UN","TRUE","TRUE","Resources","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
+"Fuel exports (% of merchandise exports)","TX.VAL.FUEL.ZS.UN","TRUE","TRUE","Resources","[0, 1.19, 2.38, 4.60, 8.11, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/TX.VAL.FUEL.ZS.UN?view=map"
+"Fuel imports (% of merchandise imports)","TM.VAL.FUEL.ZS.UN","TRUE","TRUE","Resources","[0, 2.01, 6.67, 9.83, 11.82, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/TM.VAL.FUEL.ZS.UN?view=map"
 "GDP (constant 2015 US$)","NY.GDP.MKTP.KD",,,,,,,
 "GDP (constant LCU)","NY.GDP.MKTP.KN",,,,,,,
 "GDP (current LCU)","NY.GDP.MKTP.CN",,,,,,,
 "GDP (current US$)","NY.GDP.MKTP.CD",,,,,,,
 "GDP deflator (base year varies by country)","NY.GDP.DEFL.ZS",,,,,,,
 "GDP deflator: linked series (base year varies by country)","NY.GDP.DEFL.ZS.AD",,,,,,,
-"GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","TRUE","TRUE","Finance","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
+"GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","FALSE","FALSE","Finance","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
 "GDP per capita (constant 2015 US$)","NY.GDP.PCAP.KD",,,,,,,
 "GDP per capita (constant LCU)","NY.GDP.PCAP.KN",,,,,,,
 "GDP per capita (current LCU)","NY.GDP.PCAP.CN",,,,,,,
@@ -1172,8 +1172,8 @@
 "Real interest rate (%)","FR.INR.RINR",,,,,,,
 "Refugee population by country or territory of asylum","SM.POP.REFG",,,,,,,
 "Refugee population by country or territory of origin","SM.POP.REFG.OR",,,,,,,
-"Renewable electricity output (% of total electricity output)","EG.ELC.RNEW.ZS","TRUE","TRUE","Resources","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
-"Renewable energy consumption (% of total final energy consumption)","EG.FEC.RNEW.ZS","TRUE","TRUE","Resources","[0, 20, 40, 60, 80, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,
+"Renewable electricity output (% of total electricity output)","EG.ELC.RNEW.ZS","TRUE","TRUE","Resources","[0, 9.35, 24.84, 45.24, 68.24, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS?view=map&year=2015"
+"Renewable energy consumption (% of total final energy consumption)","EG.FEC.RNEW.ZS","TRUE","TRUE","Resources","[0, 5.86, 17.86, 31.69, 48.50, 100]","[""low"", ""below_average"", ""average"", ""above_average"", ""high""]",,"https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS?view=map"
 "Renewable internal freshwater resources per capita (cubic meters)","ER.H2O.INTR.PC",,,,,,,
 "Renewable internal freshwater resources, total (billion cubic meters)","ER.H2O.INTR.K3",,,,,,,
 "Repeaters, primary, female (% of female enrollment)","SE.PRM.REPT.FE.ZS",,,,,,,

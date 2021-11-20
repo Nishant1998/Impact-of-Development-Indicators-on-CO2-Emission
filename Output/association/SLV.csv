@@ -1,12 +1,12 @@
 antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedents_len,consequents_len,interesting
-frozenset({'TX.VAL.FUEL.ZS.UN@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'TX.VAL.FOOD.ZS.UN@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'TM.VAL.FUEL.ZS.UN@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'TM.VAL.FOOD.ZS.UN@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'TX.VAL.FUEL.ZS.UN@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'TX.VAL.FOOD.ZS.UN@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'TM.VAL.FUEL.ZS.UN@above_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'TM.VAL.FOOD.ZS.UN@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'NY.GDP.PCAP.CD@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'EG.FEC.RNEW.ZS@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'EG.ELC.RNEW.ZS@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'EG.FEC.RNEW.ZS@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'EG.ELC.RNEW.ZS@above_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'EG.ELC.ACCS.ZS@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'AG.LND.TOTL.K2@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'AG.LND.FRST.ZS@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'AG.LND.AGRI.ZS@above_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'AG.LND.FRST.ZS@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'AG.LND.AGRI.ZS@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True

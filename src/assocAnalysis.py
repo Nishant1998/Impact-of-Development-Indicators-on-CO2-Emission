@@ -13,8 +13,8 @@ def run():
         data = pd.read_csv(getAbsPath(INPUT_DIR + "/" + filename))
         result = pd.concat([result, data["antecedents"] +"->"+ data["consequents"]])
 
-    result.columns = ["rules"]
-    result = result.rules.value_counts(normalize=True)
+    result.columns = ["frequency"]
+    result = result.frequency.value_counts()/ 267
     result = result.reset_index()
 
     result[['Rule1', 'Rule2']] = result["index"].str.split('->', expand=True)
@@ -31,9 +31,10 @@ def run():
     result["Rule1Name"] = result["Rule1"].apply(lambda x: indicators.loc[x]["Indicator Name"])
     result["Rule2Name"] = result["Rule2"].apply(lambda x: indicators.loc[x]["Indicator Name"])
 
-    columns = ["Rule1Name", "tag1", "Rule2Name", "tag2", "rules"]
+    columns = ["Rule1Name", "tag1", "Rule2Name", "tag2", "frequency"]
     result = result[columns]
     result.to_csv(OUT_PATH, index=False)
+    print("Association Analysis Completed!")
 
 if __name__ == '__main__':
     run()

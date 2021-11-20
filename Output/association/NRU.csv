@@ -4,4 +4,4 @@ frozenset({'EG.FEC.RNEW.ZS@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,
 frozenset({'EG.ELC.RNEW.ZS@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'EG.ELC.ACCS.ZS@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'AG.LND.TOTL.K2@very_low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'AG.LND.AGRI.ZS@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'AG.LND.AGRI.ZS@below_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True

@@ -1,8 +1,8 @@
 antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedents_len,consequents_len,interesting
-frozenset({'TX.VAL.FUEL.ZS.UN@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'TX.VAL.FUEL.ZS.UN@average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'TX.VAL.FOOD.ZS.UN@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'TM.VAL.FUEL.ZS.UN@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
-frozenset({'TM.VAL.FOOD.ZS.UN@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'TM.VAL.FUEL.ZS.UN@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
+frozenset({'TM.VAL.FOOD.ZS.UN@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'NY.GDP.PCAP.CD@high'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'EG.FEC.RNEW.ZS@low'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
 frozenset({'EG.ELC.RNEW.ZS@above_average'}),frozenset({'EN.ATM.CO2E.KT@low'}),1.0,1.0,1.0,1.0,1.0,0.0,inf,1,1,True
