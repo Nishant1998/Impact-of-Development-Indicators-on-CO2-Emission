@@ -7,6 +7,7 @@ from pearsonCorrelation import pearson_rvalue
 
 def main(data,plot):
     for i in range(len(data)):
+        print(i)
         # get path and name of feature from file 
         path1 = data.iloc[i][0]
         name1 = data.iloc[i][1]

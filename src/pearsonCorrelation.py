@@ -45,7 +45,7 @@ def pearson_rvalue(path1,path2,name1,name2,plot=False):
     # read indicators file from given paths
     data1 = readData(path1)
     data2 = readData(path2)
-    
+
     # get list of countries
     # only selected 195 country And country with are common in both feature.
     contriesList = getCountriesName(data1,data2)
