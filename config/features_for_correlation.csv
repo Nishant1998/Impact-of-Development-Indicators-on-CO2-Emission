@@ -1,18 +1,18 @@
 ﻿path1,name1,path2,name2,output_path,correlation,,,,,,
-../Output/Not Binned/Land/AG.LND.FRST.ZS_NotBinned.csv,Forest Area,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/ForestAndCo2.csv,negative,,,,,,0
-../Output/Not Binned/Resources/EG.ELC.RNEW.ZS_NotBinned.csv,Renewable electricity output,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/RenewableElectricityOutputAndCo2.csv,,,,,,,1
-../Output/Not Binned/Resources/EG.FEC.RNEW.ZS_NotBinned.csv,Renewable energy consumption,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/RenewableEnergyConsumptionAndCo2.csv,,,,,,,2
-../Output/Not Binned/Resources/EG.ELC.ACCS.ZS_NotBinned.csv,Access to electricity (% of population),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/AccessToElectricityAndCo2.csv,,,,,,,3
-../Output/Not Binned/Resources/EG.ELC.COAL.ZS_NotBinned.csv,Electricity production from coal sources (% of total),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/CoalAndCo2.csv,,,,,,,4
-../Output/Not Binned/Resources/EG.ELC.HYRO.ZS_NotBinned.csv,Electricity production from hydroelectric sources (% of total),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/HydroAndCo2.csv,,,,,,,5
-../Output/Not Binned/Resources/EG.ELC.NGAS.ZS_NotBinned.csv,Electricity production from natural gas sources (% of total),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/NaturalGasAndCo2.csv,,,,,,,6
-../Output/Not Binned/Resources/EG.ELC.NUCL.ZS_NotBinned.csv,Electricity production from nuclear sources (% of total),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/NuclearAndCo2.csv,,,,,,,7
-../Output/Not Binned/Resources/EG.ELC.PETR.ZS_NotBinned.csv,Electricity production from oil sources (% of total),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/OilAndCo2.csv,,,,,,,8
-../Output/Not Binned/Resources/EG.CFT.ACCS.ZS_NotBinned.csv,Access to clean fuels and technologies for cooking (% of population),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/CooksFuelAndCo2.csv,,,,,,,9
-../Output/Not Binned/Social/SL.IND.EMPL.ZS_NotBinned.csv,Employment in industry,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/EmpIndustryAndCo2.csv,,,,,,,10
-../Output/Not Binned/Social/SP.RUR.TOTL.ZS_NotBinned.csv,Rural population,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/RuralPopAndCo2.csv,,,,,,,11
-../Output/Not Binned/Social/SP.URB.TOTL.IN.ZS_NotBinned.csv,Urban population,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/UrbanPopAndCo2.csv,,,,,,,12
-../Output/Not Binned/Resources/TM.VAL.FOOD.ZS.UN_NotBinned.csv,Food imports,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/FoodImportAndCo2.csv,,,,,,,13
-../Output/Not Binned/Resources/TX.VAL.FOOD.ZS.UN_NotBinned.csv,Food exports,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/FoodExportAndCo2.csv,,,,,,,14
-../Output/Not Binned/Finance/NY.GDP.MKTP.KD.ZG_NotBinned.csv,GDP growth,../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/GDPAndCo2.csv,,,,,,,15
-../Output/Not Binned/Finance/NY.GDP.PCAP.CD_NotBinned.csv,GDP per capita (current US$),../Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,../Output/Correlation/GdpCapitaAndCo2.csv,,,,,,,16
+Output/Not Binned/Land/AG.LND.FRST.ZS_NotBinned.csv,Forest Area,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/ForestAndCo2.csv,negative,,,,,,0
+Output/Not Binned/Resources/EG.ELC.RNEW.ZS_NotBinned.csv,Renewable electricity output,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/RenewableElectricityOutputAndCo2.csv,,,,,,,1
+Output/Not Binned/Resources/EG.FEC.RNEW.ZS_NotBinned.csv,Renewable energy consumption,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/RenewableEnergyConsumptionAndCo2.csv,,,,,,,2
+Output/Not Binned/Resources/EG.ELC.ACCS.ZS_NotBinned.csv,Access to electricity (% of population),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/AccessToElectricityAndCo2.csv,,,,,,,3
+Output/Not Binned/Resources/EG.ELC.COAL.ZS_NotBinned.csv,Electricity production from coal sources (% of total),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/CoalAndCo2.csv,,,,,,,4
+Output/Not Binned/Resources/EG.ELC.HYRO.ZS_NotBinned.csv,Electricity production from hydroelectric sources (% of total),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/HydroAndCo2.csv,,,,,,,5
+Output/Not Binned/Resources/EG.ELC.NGAS.ZS_NotBinned.csv,Electricity production from natural gas sources (% of total),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/NaturalGasAndCo2.csv,,,,,,,6
+Output/Not Binned/Resources/EG.ELC.NUCL.ZS_NotBinned.csv,Electricity production from nuclear sources (% of total),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/NuclearAndCo2.csv,,,,,,,7
+Output/Not Binned/Resources/EG.ELC.PETR.ZS_NotBinned.csv,Electricity production from oil sources (% of total),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/OilAndCo2.csv,,,,,,,8
+Output/Not Binned/Resources/EG.CFT.ACCS.ZS_NotBinned.csv,Access to clean fuels and technologies for cooking (% of population),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/CooksFuelAndCo2.csv,,,,,,,9
+Output/Not Binned/Social/SL.IND.EMPL.ZS_NotBinned.csv,Employment in industry,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/EmpIndustryAndCo2.csv,,,,,,,10
+Output/Not Binned/Social/SP.RUR.TOTL.ZS_NotBinned.csv,Rural population,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/RuralPopAndCo2.csv,,,,,,,11
+Output/Not Binned/Social/SP.URB.TOTL.IN.ZS_NotBinned.csv,Urban population,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/UrbanPopAndCo2.csv,,,,,,,12
+Output/Not Binned/Resources/TM.VAL.FOOD.ZS.UN_NotBinned.csv,Food imports,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/FoodImportAndCo2.csv,,,,,,,13
+Output/Not Binned/Resources/TX.VAL.FOOD.ZS.UN_NotBinned.csv,Food exports,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/FoodExportAndCo2.csv,,,,,,,14
+Output/Not Binned/Finance/NY.GDP.MKTP.KD.ZG_NotBinned.csv,GDP growth,Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/GDPAndCo2.csv,,,,,,,15
+Output/Not Binned/Finance/NY.GDP.PCAP.CD_NotBinned.csv,GDP per capita (current US$),Output/Not Binned/Emission/EN.ATM.CO2E.KT_NotBinned.csv,CO2,Output/Correlation/GdpCapitaAndCo2.csv,,,,,,,16

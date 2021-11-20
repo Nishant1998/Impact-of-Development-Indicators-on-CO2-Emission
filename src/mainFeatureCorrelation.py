@@ -15,7 +15,7 @@ def main(data,plot):
         path2 = getAbsPath(data.iloc[i][2])
         name2 = data.iloc[i][3]
         output_path = data.iloc[i][4]
-    
+
         # Here we calculate pearson correlation R and its p value
         # pearson_rvalue is a funtion in pearsonCorrelation.py file in src
         output_df = pearson_rvalue(path1,path2,name1,name2,plot=False)
