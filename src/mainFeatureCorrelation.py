@@ -3,18 +3,19 @@
 import numpy as np
 import pandas as pd
 from pearsonCorrelation import pearson_rvalue
+from common import *
 
 
 def main(data,plot):
     for i in range(len(data)):
         print(i)
         # get path and name of feature from file 
-        path1 = data.iloc[i][0]
+        path1 = getAbsPath(data.iloc[i][0])
         name1 = data.iloc[i][1]
-        path2 = data.iloc[i][2]
+        path2 = getAbsPath(data.iloc[i][2])
         name2 = data.iloc[i][3]
         output_path = data.iloc[i][4]
-    
+
         # Here we calculate pearson correlation R and its p value
         # pearson_rvalue is a funtion in pearsonCorrelation.py file in src
         output_df = pearson_rvalue(path1,path2,name1,name2,plot=False)
@@ -47,7 +48,7 @@ def main(data,plot):
 if __name__ == "__main__":
     # Read features_for_correlation.csv in config folder 
     # this file file path of two feature we want to find correlation between 
-    data = pd.read_csv("../config/features_for_correlation.csv")
+    data = pd.read_csv(getAbsPath("config/features_for_correlation.csv"))
     # We pass the data to main funtion.
     main(data,False)
 
