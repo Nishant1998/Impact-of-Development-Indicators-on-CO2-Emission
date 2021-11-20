@@ -7,6 +7,7 @@
 import numpy as np
 import pandas as pd
 from pearsonCorrelation import pearson_rvalue
+from common import *
 
 
 # In[3]:
@@ -14,9 +15,9 @@ from pearsonCorrelation import pearson_rvalue
 
 def main(data,plot):
     for i in range(len(data)):
-        path1 = data.iloc[i][0]
+        path1 = getAbsPath(data.iloc[i][0])
         name1 = data.iloc[i][1]
-        path2 = data.iloc[i][2]
+        path2 = getAbsPath(data.iloc[i][2])
         name2 = data.iloc[i][3]
         output_path = data.iloc[i][4]
     
@@ -49,6 +50,6 @@ def main(data,plot):
 
 
 if __name__ == "__main__":
-    data = pd.read_csv("../config/features_for_correlation.csv")
+    data = pd.read_csv(getAbsPath("config/features_for_correlation.csv"))
     main(data,False)
 
