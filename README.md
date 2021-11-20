@@ -25,6 +25,12 @@
     ```
     sh ./scripts/getIndicators.sh
     ``` 
+- Preprocessing
+    - Specify the binning criteria, labels and normalization factors in config/indicators.csv file for the selected indicators.
+    - run the following shell script to generates the binned and not binned version of the files in the Output directory
+    ```
+    sh ./scripts/preprocessing.sh
+    ```
 
 - Find Association Rules
     - The association requries its own prepreprocessing which is done by the *scripts/associationPrep.sh*
